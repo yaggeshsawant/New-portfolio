@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/New-portofolio/static/css/main.999d4001.css",
+    "main.js": "/New-portofolio/static/js/main.7417ced6.js",
+    "static/media/temperature.png": "/New-portofolio/static/media/temperature.086e88b6254e438b154c.png",
+    "static/media/travel.png": "/New-portofolio/static/media/travel.199eb0b95c458f1d6f77.png",
+    "static/media/portfolio.png": "/New-portofolio/static/media/portfolio.1d3a9b242931025c8af8.png",
+    "static/media/chatApp.png": "/New-portofolio/static/media/chatApp.ae7ae63619553d56122c.png",
+    "static/media/web.png": "/New-portofolio/static/media/web.9440acf0c7e8a1325398.png",
+    "static/media/firstyear.jpg": "/New-portofolio/static/media/firstyear.bc346ffbeb6f145373f1.jpg",
+    "static/media/boy.png": "/New-portofolio/static/media/boy.5ca4b670a32b71681d2c.png",
+    "static/media/androidcert.jpg": "/New-portofolio/static/media/androidcert.bfea978284607a084643.jpg",
+    "static/media/sciencequiz.jpg": "/New-portofolio/static/media/sciencequiz.ff6e71cc6a30faefebe1.jpg",
+    "static/media/webdesing.jpg": "/New-portofolio/static/media/webdesing.20d88dd29ec133258bf5.jpg",
+    "static/media/ys-resume.pdf": "/New-portofolio/static/media/ys-resume.47b8fd2a34662c951358.pdf",
+    "static/media/mathsquiz.jpg": "/New-portofolio/static/media/mathsquiz.2a929974eeef0404bde6.jpg",
+    "static/media/javaCertificate.jpg": "/New-portofolio/static/media/javaCertificate.09b39a9c32547b4b0a6c.jpg",
+    "static/media/glassesimoji.png": "/New-portofolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/New-portofolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/New-portofolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/New-portofolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/New-portofolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/New-portofolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/New-portofolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/New-portofolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/New-portofolio/index.html",
+    "main.999d4001.css.map": "/New-portofolio/static/css/main.999d4001.css.map",
+    "main.7417ced6.js.map": "/New-portofolio/static/js/main.7417ced6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.999d4001.css",
+    "static/js/main.7417ced6.js"
+  ]
+}
